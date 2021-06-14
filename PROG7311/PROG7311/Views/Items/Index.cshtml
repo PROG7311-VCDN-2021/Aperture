@@ -1,0 +1,36 @@
+﻿@model IEnumerable<PROG7311.Models.Item>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h1>Our Products</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ItemName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.ItemId">Details</a> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
