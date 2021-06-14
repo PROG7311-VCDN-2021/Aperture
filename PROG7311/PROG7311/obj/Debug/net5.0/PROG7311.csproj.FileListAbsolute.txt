@@ -162,9 +162,11 @@ C:\Users\andre\source\repos\PROG7311\PROG7311\obj\Debug\net5.0\Razor\Views\Admin
 C:\Users\andre\source\repos\PROG7311\PROG7311\obj\Debug\net5.0\Razor\Views\AdminUsers\Details.cshtml.g.cs
 C:\Users\andre\source\repos\PROG7311\PROG7311\obj\Debug\net5.0\Razor\Views\AdminUsers\Edit.cshtml.g.cs
 C:\Users\andre\source\repos\PROG7311\PROG7311\obj\Debug\net5.0\Razor\Views\AdminUsers\Index.cshtml.g.cs
-C:\Users\andre\source\repos\PROG7311\PROG7311\obj\Debug\net5.0\Razor\Views\Carts\Create.cshtml.g.cs
-C:\Users\andre\source\repos\PROG7311\PROG7311\obj\Debug\net5.0\Razor\Views\Carts\Delete.cshtml.g.cs
-C:\Users\andre\source\repos\PROG7311\PROG7311\obj\Debug\net5.0\Razor\Views\Carts\Details.cshtml.g.cs
-C:\Users\andre\source\repos\PROG7311\PROG7311\obj\Debug\net5.0\Razor\Views\Carts\Edit.cshtml.g.cs
 C:\Users\andre\source\repos\PROG7311\PROG7311\obj\Debug\net5.0\Razor\Views\Carts\Index.cshtml.g.cs
-C:\Users\andre\source\repos\PROG7311\PROG7311\obj\Debug\net5.0\Razor\Views\Users\Poggers.cshtml.g.cs
+C:\Users\andre\source\repos\PROG7311\PROG7311\bin\Debug\net5.0\CryptoHelper.dll
+C:\Users\andre\source\repos\PROG7311\PROG7311\obj\Debug\net5.0\Razor\Views\AdminCarts\Create.cshtml.g.cs
+C:\Users\andre\source\repos\PROG7311\PROG7311\obj\Debug\net5.0\Razor\Views\AdminCarts\Delete.cshtml.g.cs
+C:\Users\andre\source\repos\PROG7311\PROG7311\obj\Debug\net5.0\Razor\Views\AdminCarts\Details.cshtml.g.cs
+C:\Users\andre\source\repos\PROG7311\PROG7311\obj\Debug\net5.0\Razor\Views\AdminCarts\Edit.cshtml.g.cs
+C:\Users\andre\source\repos\PROG7311\PROG7311\obj\Debug\net5.0\Razor\Views\AdminCarts\Index.cshtml.g.cs
+C:\Users\andre\source\repos\PROG7311\PROG7311\obj\Debug\net5.0\Razor\Views\Carts\Delete.cshtml.g.cs

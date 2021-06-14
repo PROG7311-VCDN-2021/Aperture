@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Su2ZbH5BwCgnrX5x0AOM6FscyIWGR7c9g6HvOv4XDXr1G5+UTJbtmAvWCT4IxBd1m9zR75W23CYZA0z15XA42Q==",
+  "dgSpecHash": "gOyaEdem5RxNXprlGJefRwz9l8F7CjgJJ+tdvVPwi47f2RoS6DMWKCSUXTbmgjW8iONfd3cQ3dW4NLp0K87Hpw==",
   "success": true,
   "projectFilePath": "C:\\Users\\andre\\source\\repos\\PROG7311\\PROG7311\\PROG7311.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\cryptohelper\\3.0.2\\cryptohelper.3.0.2.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.7\\microsoft.aspnetcore.cryptography.internal.5.0.7.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.7\\microsoft.aspnetcore.cryptography.keyderivation.5.0.7.nupkg.sha512",

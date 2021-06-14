@@ -59,13 +59,13 @@ namespace PROG7311.Controllers
         }
 
         [HttpGet]
-        public IActionResult Poggers()
+        public IActionResult Register()
         {
             return View();
         }
 
         [HttpPost]
-        public IActionResult Poggers(string Username, string Password)
+        public IActionResult Register(string Username, string Password)
         {
             IEnumerable<User> RegUser = from user in db.Users
                                           where user.Username == Username && user.UserPassword == Password
